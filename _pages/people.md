@@ -26,4 +26,4 @@ Team
 * [Nana Akwasi Abayie Boateng](http://restanalytics.com/) - Machine Learning Researcher
 * David Sasu - Computer Scientist and Research Engineer
 * [Lawrence Adu-Gyamfi](https://www.linkedin.com/in/lawrence-adu-gyamfi/) - Subsea Engineer
-* [Alfred Delle](https://www.linkedin.com/in/tuotoldelle/) - Software Engineer, NLP Enthusiast
+* [Alfred Tuotol Delle](https://www.linkedin.com/in/tuotoldelle/) - Software Engineer, NLP Enthusiast
