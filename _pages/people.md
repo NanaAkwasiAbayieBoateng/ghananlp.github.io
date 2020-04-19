@@ -28,3 +28,6 @@ Team
 * [Lawrence Adu-Gyamfi](https://www.linkedin.com/in/lawrence-adu-gyamfi/) - Subsea Engineer
 * [Alfred Tuotol Delle](https://www.linkedin.com/in/tuotoldelle/) - Software Engineer, NLP Enthusiast
 * [Bernard Antwi Adabankah](https://www.linkedin.com/in/bernard-adabankah-3109b015/) - Data Scientist
+* [Emmanuel Coffie Debrah](https://linkedin.com/in/kweku-debrah-78ab5118a) - Computer Scientist and NLP Researcher
+* Samuel Opoku-Agyemang - Software Engineer
+
