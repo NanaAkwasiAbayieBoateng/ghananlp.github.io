@@ -27,3 +27,4 @@ Team
 * David Sasu - Computer Scientist and Research Engineer
 * [Lawrence Adu-Gyamfi](https://www.linkedin.com/in/lawrence-adu-gyamfi/) - Subsea Engineer
 * [Alfred Tuotol Delle](https://www.linkedin.com/in/tuotoldelle/) - Software Engineer, NLP Enthusiast
+* [Bernard Antwi Adabankah](https://www.linkedin.com/in/bernard-adabankah-3109b015/) - Data Scientist
